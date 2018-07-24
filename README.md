@@ -1,7 +1,7 @@
 # geeznet
 GeezNet is a Residual Network approach for Amharic Characters Recognition 
 ![oneshot task](images/task_25.png)
-[koch et al, Siamese Networks for one-shot learning,](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)  (mostly) reimplimented in keras. 
+[The Project Abstract is can be found here](https://www.github.io/geeznet.pdf)  (mostly) implimented in keras backend with tensorflow. 
 Trains on the [My own Dataset]( https://github.com/isrugeek/geeznet/dataset).
 
 
