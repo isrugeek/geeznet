@@ -4,7 +4,7 @@ GeezNet is a Residual Network approach for Amharic Characters Recognition
 [The Project Abstract is can be found here](https://www.github.io/geeznet.pdf)  (mostly) implimented in keras backend with tensorflow. 
 Trains on the [My own Dataset]( https://github.com/isrugeek/geeznet/dataset).
 
-
+## This Project is Ongoing and it is not convinient to re-upload the Code Many times ! I promise I will Upload them Very soon
 
 
 ## Installation Instructions
